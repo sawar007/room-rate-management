@@ -42,7 +42,7 @@ These instructions will help you set up and run the project on your local machin
 
 4. **Set up the PostgreSQL database:**
 
-    Create a database named `Room_management` in PostgreSQL and update the database configuration in `settings.py`:
+    Create a database named `room_rate_management` in PostgreSQL and update the database configuration in `settings.py`:
 
     ```python
     DATABASES = {
